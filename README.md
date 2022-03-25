@@ -1,2 +1,2 @@
 
-![HomeWork VisualVM](https://user-images.githubusercontent.com/98588557/160134201-a01098f9-eac3-4abd-a0ac-0f0afa1dc1c7.jpg)
+![HomeWork VisualVM](https://user-images.githubusercontent.com/98588557/160134751-6a926569-bbac-4ec0-bcdb-71e3ab64d3ab.jpg)
